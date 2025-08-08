@@ -42,9 +42,9 @@ Always curious, always learning, and always building!
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/md-tasfik-hasan-936a6a295/)
-- [GitHub]([https://github.com/yourusername](https://github.com/tasfiktanim))
-- [Facebook]([https://twitter.com/yourusername](https://www.facebook.com/TaskfiqTanim/)
+- [LinkedIn](https://www.linkedin.com/in/md-tasfik-hasan-936a6a295/)
+- [GitHub](https://github.com/tasfiktanim)
+- [Facebook](https://www.facebook.com/TaskfiqTanim/)
 
 ---
 
