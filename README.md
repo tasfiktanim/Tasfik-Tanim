@@ -3,7 +3,7 @@
   <img src="https://media.istockphoto.com/id/1979289147/photo/data-analysis-science-and-big-data-with-ai-technology-analyst-or-scientist-uses-a-computer.jpg?s=612x612&w=0&k=20&c=vmC-jVG6PNPRQtgtBp2y1caApEGYjt-fDrm0VzRgvK8=" alt="Banner" />
 </p>
 
-# 👋 Hi, I’m **Your Full Name**
+# 👋 Hi, I’m Tasfik Hasan
 **Full Stack Web Developer** | Passionate about building modern, scalable web applications
 
 ---
